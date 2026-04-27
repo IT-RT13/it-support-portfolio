@@ -1,1 +1,86 @@
-SAMPLE
+# 👨‍💻 Arthur Del Rosario – IT Support Portfolio
+
+📍 Nueva Ecija, Philippines  
+📧 delrosarioarthurn@gmail.com   
+---
+
+## 🧑‍💼 About Me
+
+IT Support Specialist with hands-on experience in **enterprise support, hospital systems, and data center operations**.  
+Skilled in troubleshooting hardware, software, and network issues, with strong experience in **system administration, monitoring tools, and ticketing systems**.
+
+I focus on:
+- Fast and accurate troubleshooting
+- System reliability and uptime
+- Clear documentation and user support
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Systems & Administration
+- Windows Server 2019
+- Active Directory
+- Proxmox Virtualization
+- pfSense Firewall
+
+### 🌐 Networking
+- IP Configuration
+- Network Troubleshooting
+- Firewall Management
+
+### 📊 Monitoring Tools
+- Zabbix
+- PRTG
+- Nagios
+- Grafana
+
+
+### 🎫 Ticketing & Support
+- ServiceNow
+- iCare
+- Remote Desktop
+- AnyDesk
+- TeamViewer
+
+### 🔐 Security Tools
+- CrowdStrike
+- TrendMicro
+
+### 🐧 Scripting & OS
+- Basic Linux Commands
+- Batch Scripting
+- Windows OS
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Technical Support Specialist  
+**Phil-Data Business Systems, Inc.**   
+
+- First point of contact for IT issues (network, hardware, software)
+- Troubleshoot and identify root causes of technical problems
+- Manage and resolve tickets using ServiceNow
+- Install and monitor tools like SCCM, Zabbix, CrowdStrike, TrendMicro
+- Maintain IT asset inventory
+
+---
+
+### 🏥 IT Administrator  
+**South Ecija Doctors General Hospital**   
+
+- Managed hospital IT infrastructure and operations
+- Administered BizBox hospital system
+- Maintained Proxmox servers and pfSense firewall
+- Ensured network uptime and system performance
+
+---
+
+### 🏢 Data Center Specialist  
+**MegaLink, Inc.**   
+
+- Monitored systems using PRTG, Nagios, Grafana
+- Managed incidents via iCare ticketing system
+- Executed SQL queries and Linux commands via PuTTY
+- Escalated critical issues to appropriate teams
